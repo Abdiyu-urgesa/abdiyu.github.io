@@ -4,7 +4,7 @@
 :root {
   --header-height: 3rem;
   /*========== Colors ==========*/
-  --hue: 85;
+  --hue: 783;
   --sat: 98%;
   --first-color: hsl(var(--hue), var(--sat), 60%);
   --first-color-light: hsl(var(--hue), var(--sat), 85%);
