@@ -1,5 +1,10 @@
 /*=============== GOOGLE FONTS ===============*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+@font-face {
+  font-family: 'anurati';
+  src: url('../font/Anurati-Regular.otf') format('opentype');
+}
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3rem;
